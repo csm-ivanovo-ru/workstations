@@ -5,7 +5,8 @@
 [![Semantic Versioning](https://img.shields.io/static/v1?label=Semantic%20Versioning&message=v2.0.0&color=green&logo=semver)](https://semver.org/lang/ru/spec/v2.0.0.html)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-v1.0.0-yellow.svg?logo=git)](https://conventionalcommits.org)
 
-Данный репозиторий содержит ...
+Данный репозиторий содержит историю изменения конфигураций рабочих станций
+(собрана с использованием CPU-Z).
 
 ## О подготовке рабочего места разработчика
 
@@ -14,6 +15,7 @@
 - [chocolatey][] (менеджер пакетов)
 - [git][]
 - [VSCode][]
+- [CPU-Z][]
 
 ## Внесение изменений в расширения
 
@@ -27,3 +29,4 @@
 [chocolatey]: https://chocolatey.org
 [Git]: https://github.com/git-guides/install-git#install-git-on-windows "Install Git on Windows"
 [VSCode]: https://code.visualstudio.com "Visual Studio Code"
+[CPU-Z]: https://www.cpuid.com/softwares/cpu-z.html
