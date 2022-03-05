@@ -13,6 +13,10 @@
 	"editor.formatOnPaste": false,
 	"files.trimTrailingWhitespace": true,
 	"files.insertFinalNewline": true,
+	"[plaintext]": {
+		"files.encoding": "windows1251",
+		"files.autoGuessEncoding": false
+	},
 	"task.autoDetect": "off",
 	"conventionalCommits.autoCommit": false,
 	// "conventionalCommits.emojiFormat": "",
