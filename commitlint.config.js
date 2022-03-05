@@ -27,7 +27,8 @@ module.exports = {
 		]],
 		"scope-case": [2, "always", "lower-case"],
 		"scope-enum": [1, "always", [
-			"ext",
+			"hw",
+			"sw",
 			"vscode",
 			"git",
 			"github",

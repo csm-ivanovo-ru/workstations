@@ -26,7 +26,8 @@
 	"conventionalCommits.promptFooter": true,
 	"conventionalCommits.promptScopes": true,
 	"conventionalCommits.scopes": [
-		"ext",
+		"hw",
+		"sw",
 		"vscode",
 		"git",
 		"github",
