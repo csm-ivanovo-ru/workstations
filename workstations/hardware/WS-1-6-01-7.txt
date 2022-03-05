@@ -1,0 +1,424 @@
+CPU-Z - Текстовый отчет
+-------------------------------------------------------------------------
+
+Binaries
+-------------------------------------------------------------------------
+
+CPU-Z version			1.94.0
+
+Процессоры
+-------------------------------------------------------------------------
+
+Number of sockets		1
+Number of threads		2
+
+APICs
+-------------------------------------------------------------------------
+
+Socket 0	
+	-- Core 0 (ID 0)	
+		-- Thread 0	0
+	-- Core 1 (ID 2)	
+		-- Thread 1	2
+
+Таймеры
+-------------------------------------------------------------------------
+
+	Perf timer		2.742 MГц
+	Sys timer		1.000 KГц
+
+
+Processors Information
+-------------------------------------------------------------------------
+
+Socket 1			ID = 0
+	Number of cores		2 (max 2)
+	Number of threads	2 (max 2)
+	Manufacturer		GenuineIntel
+	Name			Intel Celeron
+	Codename		Skylake
+	Specification		Intel(R) Celeron(R) CPU G3900 @ 2.80GHz
+	Package 		
+	CPUID			6.E.3
+	Extended CPUID		6.5E
+	Core Stepping		R0
+	Technology		14 нм
+	Tjmax			100.0 °C
+	Core Speed		2808.2 МГц
+	Stock frequency		2800 МГц
+	Max frequency		2800 МГц
+	Instructions sets	MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, EM64T, VT-x, AES
+	L1 Data cache		2 x 32 КБ, 8-way set associative, 64-byte line size
+	L1 Instruction cache	2 x 32 КБ, 8-way set associative, 64-byte line size
+	L2 cache		2 x 256 КБ, 4-way set associative, 64-byte line size
+	L3 cache		2 МБ, 8-way set associative, 64-byte line size
+	Max CPUID level		00000016h
+	Max CPUID ext. level	80000008h
+	Cache descriptor	Level 1, D, 32 KB, 2 thread(s)
+	Cache descriptor	Level 1, I, 32 KB, 2 thread(s)
+	Cache descriptor	Level 2, U, 256 KB, 2 thread(s)
+	Cache descriptor	Level 3, U, 2 MB, 16 thread(s)
+	FID/VID Control		yes
+
+
+	Turbo Mode		supported, disabled
+
+	Clock Speed 0		n.a. (Core #0)
+	Clock Speed 1		n.a. (Core #1)
+
+
+Thread dumps
+-------------------------------------------------------------------------
+
+CPU Thread 0	
+	APIC ID			0
+	Topology		Processor ID 0, Core ID 0, Thread ID 0
+
+	CPUID		 
+	0x00000000		0x00000016	0x756E6547	0x6C65746E	0x49656E69
+	0x00000001		0x000506E3	0x00100800	0x4FFAEBBF	0xBFEBFBFF
+	0x00000002		0x76036301	0x00F0B6FF	0x00000000	0x00C30000
+	0x00000003		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000004		0x1C004121	0x01C0003F	0x0000003F	0x00000000
+	0x00000004		0x1C004122	0x01C0003F	0x0000003F	0x00000000
+	0x00000004		0x1C004143	0x00C0003F	0x000003FF	0x00000000
+	0x00000004		0x1C03C163	0x01C0003F	0x00000FFF	0x00000006
+	0x00000005		0x00000040	0x00000040	0x00000003	0x00142120
+	0x00000006		0x000027F5	0x00000002	0x00000001	0x00000000
+	0x00000007		0x00000000	0x02942607	0x00000000	0x00000000
+	0x00000008		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000009		0x00000000	0x00000000	0x00000000	0x00000000
+	0x0000000A		0x07300804	0x00000000	0x00000000	0x00000603
+	0x0000000B		0x00000001	0x00000001	0x00000100	0x00000000
+	0x0000000B		0x00000004	0x00000002	0x00000201	0x00000000
+	0x0000000C		0x00000000	0x00000000	0x00000000	0x00000000
+	0x0000000D		0x00000003	0x00000240	0x00000240	0x00000000
+	0x0000000D		0x0000000F	0x00000240	0x00000100	0x00000000
+	0x0000000E		0x00000000	0x00000000	0x00000000	0x00000000
+	0x0000000F		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000010		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000011		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000012		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000013		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000014		0x00000001	0x0000000F	0x00000007	0x00000000
+	0x00000015		0x00000002	0x000000EA	0x00000000	0x00000000
+	0x00000016		0x00000AF0	0x00000AF0	0x00000064	0x00000000
+	0x80000000		0x80000008	0x00000000	0x00000000	0x00000000
+	0x80000001		0x00000000	0x00000000	0x00000121	0x2C100000
+	0x80000002		0x65746E49	0x2952286C	0x6C654320	0x6E6F7265
+	0x80000003		0x20295228	0x20555043	0x30393347	0x20402030
+	0x80000004		0x30382E32	0x007A4847	0x00000000	0x00000000
+	0x80000005		0x00000000	0x00000000	0x00000000	0x00000000
+	0x80000006		0x00000000	0x00000000	0x01006040	0x00000000
+	0x80000007		0x00000000	0x00000000	0x00000000	0x00000100
+	0x80000008		0x00003027	0x00000000	0x00000000	0x00000000
+
+
+CPU Thread 1	
+	APIC ID			2
+	Topology		Processor ID 0, Core ID 2, Thread ID 0
+
+	CPUID		 
+	0x00000000		0x00000016	0x756E6547	0x6C65746E	0x49656E69
+	0x00000001		0x000506E3	0x02100800	0x4FFAEBBF	0xBFEBFBFF
+	0x00000002		0x76036301	0x00F0B6FF	0x00000000	0x00C30000
+	0x00000003		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000004		0x1C004121	0x01C0003F	0x0000003F	0x00000000
+	0x00000004		0x1C004122	0x01C0003F	0x0000003F	0x00000000
+	0x00000004		0x1C004143	0x00C0003F	0x000003FF	0x00000000
+	0x00000004		0x1C03C163	0x01C0003F	0x00000FFF	0x00000006
+	0x00000005		0x00000040	0x00000040	0x00000003	0x00142120
+	0x00000006		0x000027F5	0x00000002	0x00000001	0x00000000
+	0x00000007		0x00000000	0x02942607	0x00000000	0x00000000
+	0x00000008		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000009		0x00000000	0x00000000	0x00000000	0x00000000
+	0x0000000A		0x07300804	0x00000000	0x00000000	0x00000603
+	0x0000000B		0x00000001	0x00000001	0x00000100	0x00000002
+	0x0000000B		0x00000004	0x00000002	0x00000201	0x00000002
+	0x0000000C		0x00000000	0x00000000	0x00000000	0x00000000
+	0x0000000D		0x00000003	0x00000240	0x00000240	0x00000000
+	0x0000000D		0x0000000F	0x00000240	0x00000100	0x00000000
+	0x0000000E		0x00000000	0x00000000	0x00000000	0x00000000
+	0x0000000F		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000010		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000011		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000012		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000013		0x00000000	0x00000000	0x00000000	0x00000000
+	0x00000014		0x00000001	0x0000000F	0x00000007	0x00000000
+	0x00000015		0x00000002	0x000000EA	0x00000000	0x00000000
+	0x00000016		0x00000AF0	0x00000AF0	0x00000064	0x00000000
+	0x80000000		0x80000008	0x00000000	0x00000000	0x00000000
+	0x80000001		0x00000000	0x00000000	0x00000121	0x2C100000
+	0x80000002		0x65746E49	0x2952286C	0x6C654320	0x6E6F7265
+	0x80000003		0x20295228	0x20555043	0x30393347	0x20402030
+	0x80000004		0x30382E32	0x007A4847	0x00000000	0x00000000
+	0x80000005		0x00000000	0x00000000	0x00000000	0x00000000
+	0x80000006		0x00000000	0x00000000	0x01006040	0x00000000
+	0x80000007		0x00000000	0x00000000	0x00000000	0x00000100
+	0x80000008		0x00003027	0x00000000	0x00000000	0x00000000
+
+
+
+
+BIOS
+-------------------------------------------------------------------------
+
+UEFI				No
+
+Chipset
+-------------------------------------------------------------------------
+
+Memory Type			
+Memory Size			4 ГБ
+
+
+Memory SPD
+-------------------------------------------------------------------------
+
+
+Мониторинг
+-------------------------------------------------------------------------
+
+Mainboard Model		H110M-K (0x0000019F - 0x004C5FEB)
+
+LPCIO
+-------------------------------------------------------------------------
+
+Hardware Monitors
+-------------------------------------------------------------------------
+
+Hardware monitor		Hardware monitor ID=0xFFFFFFFF
+
+Hardware monitor		D3D
+
+
+DMI
+-------------------------------------------------------------------------
+
+SMBIOS Version			3.0
+
+DMI BIOS		
+	vendor			American Megatrends Inc.
+	version			3404
+	date			07/04/2017
+	ROM size		16384 KB
+
+DMI System Information		
+	manufacturer		System manufacturer
+	product			System Product Name
+	version			System Version
+	serial			System Serial Number
+	UUID			{C7119613-38E7-2519-402C-107B44922D62}
+	SKU			SKU
+	family			To be filled by O.E.M.
+
+DMI Baseboard		
+	vendor			ASUSTeK COMPUTER INC.
+	model			H110M-K
+	revision		Rev X.0x
+	serial			170808330503939
+
+DMI System Enclosure		
+	manufacturer		Default string
+	chassis type		Desktop
+	chassis serial		Default string
+
+DMI Port Connector		
+	designation		PS/2 Mouse (internal)
+	designation		PS/2 Mouse (external)
+	port type		Mouse Port
+	connector		PS/2
+
+DMI Port Connector		
+	designation		PS/2 Keyboard (internal)
+	designation		PS/2 Keyboard (external)
+	port type		Keyboard Port
+	connector		PS/2
+
+DMI Port Connector		
+	designation		USB3_34 (internal)
+	designation		USB3_34 (external)
+	port type		USB
+	connector		Access Bus (USB)
+
+DMI Port Connector		
+	designation		USB_56 (internal)
+	designation		USB_56 (external)
+	port type		USB
+	connector		Access Bus (USB)
+
+DMI Port Connector		
+	designation		LAN_USB78 (internal)
+	designation		LAN_USB78 (external)
+	port type		Network Port
+	connector		RJ-45
+
+DMI Port Connector		
+	designation		AUDIO (internal)
+	designation		AUDIO (external)
+	port type		Audio Port
+
+DMI Port Connector		
+	designation		DVI (internal)
+	designation		DVI port (external)
+
+DMI Port Connector		
+	designation		VGA (internal)
+	designation		VGA port (external)
+
+DMI Port Connector		
+	designation		SATA6G_1 (internal)
+
+DMI Port Connector		
+	designation		SATA6G_2 (internal)
+
+DMI Port Connector		
+	designation		SATA6G_3 (internal)
+
+DMI Port Connector		
+	designation		SATA6G_4 (internal)
+
+DMI Port Connector		
+	designation		USB_910 (internal)
+	port type		USB
+	connector		Access Bus (USB)
+
+DMI Port Connector		
+	designation		USB3_12 (internal)
+	port type		USB
+	connector		Access Bus (USB)
+
+DMI Port Connector		
+	designation		CPU_FAN (internal)
+
+DMI Port Connector		
+	designation		CHA_FAN (internal)
+
+DMI Port Connector		
+	designation		COM (internal)
+	port type		Serial Port 16550A
+	connector		DB-9 male
+
+DMI Port Connector		
+	designation		AAFP (internal)
+	port type		Audio Port
+	connector		Mini Jack (headphones)
+
+DMI Port Connector		
+	designation		PANEL (internal)
+
+DMI Extension Slot		
+	designation		PCIEX16_1
+	type			A5
+	populated		no
+
+DMI Extension Slot		
+	designation		PCIEX1_1
+	type			A5
+	populated		no
+
+DMI Extension Slot		
+	designation		PCIEX1_2
+	type			A5
+	populated		no
+
+DMI OEM Strings		
+	string[0]		Default string
+	string[1]		Default string
+	string[2]		Default string
+	string[3]		Default string
+	string[4]		FFFFFFFFFFFFF
+	string[5]		FFFFFFFFFFFFF
+	string[6]		FFFFFFFFFFFFF
+	string[7]		Default string
+
+DMI Additional Information Device		
+	string #		3
+	string[0]		To Be Filled By O.E.M. 1
+	string[2]		Mordor
+
+DMI Physical Memory Array		
+	location		Motherboard
+	usage			System Memory
+	correction		None
+	max capacity		32 GB
+	max# of devices		2
+
+DMI Memory Device		
+	designation		DIMM_A1
+	format			DIMM
+	type			DDR4
+	total width		64 бит
+	data width		64 бит
+	size			4 GB
+
+DMI Memory Device		
+	designation		DIMM_B1
+	format			unknown
+	type			unknown
+
+DMI Processor		
+	manufacturer		Intel(R) Corporation
+	model			Intel(R) Celeron(R) CPU G3900 @ 2.80GHz
+	clock speed		2800.0 МГц
+	FSB speed		100.0 МГц
+	multiplier		28.0x
+
+
+Хранилище
+-------------------------------------------------------------------------
+
+USB Devices
+-------------------------------------------------------------------------
+
+USB Device			Составное USB устройство, class=0x00, subclass=0x00, vendor=0x2A7A, product=0x9A18
+USB Device			USB-устройство ввода, class=0x00, subclass=0x00, vendor=0x046D, product=0xC077
+USB Device			Составное USB устройство, class=0x00, subclass=0x00, vendor=0x0482, product=0x0698
+
+Графика
+-------------------------------------------------------------------------
+
+Number of adapters		1
+
+Graphic APIs
+-------------------------------------------------------------------------
+
+API				D3D
+API				Intel I/O
+
+Display Adapters
+-------------------------------------------------------------------------
+
+Display adapter 0	
+	ID			0x4000000
+	Name			Intel(R) HD Graphics 510
+	Board Manufacturer	ASUSTeK Computer Inc.
+	Performance Level	0
+
+Win32_VideoController		AdapterRAM = 0x40000000 (1073741824)
+Win32_VideoController		DriverVersion = 20.19.15.4377
+Win32_VideoController		DriverDate = 01/25/2016
+
+Monitor 0	
+	Model			SMB2220N (Samsung)
+	ID			SAM06A2
+	Serial			HLOZC00206
+	Manufacturing Date	Week 48, Year 2010
+	Size			21.7 inches
+	Max Resolution		1920 x 1080 @ 60 Гц
+	Horizontal Freq. Range	31-80 kHz
+	Vertical Freq. Range	56-75 Гц
+	Max Pixel Clock		170 МГц
+	Gamma Factor		2.2
+
+
+Программа
+-------------------------------------------------------------------------
+
+Windows Version			Microsoft Windows 7 (6.1) Professional 64-bit  Service Pack 1 (Build 7601) 
+DirectX Version			11.0
+
+
+Register Spaces
+-------------------------------------------------------------------------
+
