@@ -10,9 +10,7 @@
 
 ## [1.0.0]
 
-### Добавлено
-
-- описание функционала первой версии
+- конфигурация рабочих станций по состоянию на 05.03.2022
 
 [Unreleased]: https://github.com/csm-ivanovo-ru/workstations/compare/1.0.0...HEAD
 [1.0.1]: https://github.com/csm-ivanovo-ru/workstations/compare/1.0.0...1.0.1
